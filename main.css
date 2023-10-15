@@ -1,0 +1,57 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin: 5px;
+    background-image: url('./assets/bckgrnd.jpg');
+}
+
+.wrapper{
+    font-size: 18px;
+    text-align: center;
+    padding: 0.5em;
+}
+
+.wrapper h2{
+    font-size: 32px;
+}
+
+.wrapper p{
+    text-align: left;
+}
+
+.wrapper img{
+    border: 15px groove black;
+    margin-bottom: 5px;
+    width: 40%;
+    height: 500px;
+}
+
+#heading{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: 48px;
+}
+
+.container{
+    border: solid 2px black;
+    padding: 0.5em;
+    margin: 1px;
+    background-color: lightgrey;
+}
+
+#list{
+    font-size: 12px;
+    color: blueviolet;
+}
+
+.padded-container{
+    width: 50%;
+    height: 200px;
+    color: white;
+    padding: .5em;
+    border: inset 5px lightskyblue;
+    border-radius: 45px;
+    background-color: darkblue;
+    font-family: cursive, 'Times New Roman';
+}
